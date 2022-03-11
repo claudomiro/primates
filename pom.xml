@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.claudomiro</groupId>
 	<artifactId>dna.primates</artifactId>
-	<version>0.2.2</version>
+	<version>0.2.3</version>
 	<name>dna</name>
 	<description>Exemplo de projeto com Spring Boot</description>
 	<properties>
